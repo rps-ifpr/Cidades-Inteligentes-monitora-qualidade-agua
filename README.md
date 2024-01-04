@@ -1,16 +1,9 @@
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/16292535/150152830-a0077ec7-d677-4e19-b282-04401bb5a060.png" alt="logos Ceweb.br NIC.br CGI.br " width="250" height="auto"></h1>
-
-<h1 align="center">
-    <img src="https://ceweb.br/media/imgs/Moverse_na_Web_banner-site.jpg" alt="Vamos transformar Brumadinho. Projeto Mover-se na WEB!" width="450" height="auto">
-</h1>
-
 [![Software License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mas-cli/mas/blob/main/LICENSE)
 
-<h1 align="center"> Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio </h1>
+<h1 align="center"> Sistema de Monitoramento em Tempo Real de Qualidade de Água </h1>
 
-O projeto Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio faz parte da chamada pública [CGI.br/NIC.br/Ceweb.br nº 01/2019
-Mover-Se na Web – Articulação Pró-Brumadinho](https://ceweb.br/projetos/chamada.html)
+O projeto Sistema de Monitoramento em Tempo Real de Qualidade de Água faz parte...
 
 #  Descrição da solução
 
@@ -18,10 +11,6 @@ Neste projeto foi desenvolvido um protótipo de estação de monitoramento de qu
 
 <p align="center">
     <img src="hardware/img/schematic.png" width="40%" height="40%" alt="Esquemático da estação desenvolvida">
-</p>
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/276077/187819655-9bb7e3c5-82b3-4395-a704-14c8f66d7c8b.png" width="50%" height="50%" alt="Pagína inicial da aplicação web">
 </p>
 
 ## Funcionalidades ativas
@@ -180,37 +169,3 @@ Caso seja encotrado algum problema na reprodução dos passos anteriores ou na e
 
 ### Equipe responsável pelo projeto 
 
-- [Gabriel Lima](https://github.com/Gabs19)           - IFPE Campus Paulista - Pessoa desenvolvedora - gagl@discente.ifpe.edu.br
-- [Gaston Gouveia](https://github.com/Gastongouveia)  - IFPE Campus Paulista - Pessoa desenvolvedora - glgs@discente.ifpe.edu.br
-- [Rodrigo Lira](https://github.com/rodrigoclira)     - IFPE Campus Paulista - Coordenador - rodrigo.lira@paulista.ifpe.edu.br
-
-</br>
-
-
-# Sobre o [Ceweb.br](https://ceweb.br/sobre-o-ceweb-br/), [NIC.br](https://www.nic.br/sobre/) e [CGI.br](https://cgi.br/sobre/)
-
-### Ceweb.br - Centro de Estudos sobre Tecnologias Web
-O Centro de Estudos sobre Tecnologias Web (Ceweb.br) foi criado como um departamento do Núcleo de Informação e Coordenação do Ponto BR (NIC.br) para viabilizar a participação da comunidade brasileira no desenvolvimento global da Web e subsidiar a formulação de políticas públicas. O Ceweb.br nasce inspirado pelos princípios e projetos já desenvolvidos pelo Escritório Brasileiro do W3C (World Wide Web Consortium), hospedado e apoiado pelo NIC.br no Brasil desde 2008, com a missão de promover atividades que estimulem o uso de tecnologias abertas e padronizadas na Web.
-
-
-### NIC.br - Núcleo de Informação e Comunicação do Ponto BR
-O Núcleo de Informação e Coordenação do Ponto BR - NIC.br foi criado para implementar as decisões e os projetos do Comitê Gestor da Internet no Brasil - CGI.br, que é o responsável por coordenar e integrar as iniciativas e serviços da Internet no País.
-
-
-### CGI.br - Comitê Gestor da Internet no Brasil
-O Comitê Gestor da Internet no Brasil tem a atribuição de estabelecer diretrizes estratégicas relacionadas ao uso e desenvolvimento da Internet no Brasil e diretrizes para a execução do registro de Nomes de Domínio, alocação de Endereço IP (Internet Protocol) e administração pertinente ao Domínio de Primeiro Nível ".br". Também promove estudos e recomenda procedimentos para a segurança da Internet e propõe programas de pesquisa e desenvolvimento que permitam a manutenção do nível de qualidade técnica e inovação no uso da Internet
-
-### Equipe Ceweb.br
-
-<ul>
-    <li>Amanda Marques</li> 
-    <li>Ana Eliza</li>
-    <li>Beatriz Rocha</li>
-    <li>Caroline Burle</li>
-    <li>Diego Cerqueira</li>
-    <li>Diogo Cortiz</li>
-    <li>Juliana Ribeiro</li>
-    <li>Reinaldo Ferraz</li>
-    <li>Selma de Morais</li>
-    <li>Vagner Diniz</li>
-</ul>
