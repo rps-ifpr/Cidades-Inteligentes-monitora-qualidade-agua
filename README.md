@@ -157,15 +157,12 @@ $ ./startcelery.sh
 
 ### Configuração
 
-O projeto de hardware requer a utilização dos componentes eletrônicos descritos [anteriormente](#pr%C3%A9-requisitos-1). Em posse deles, o usuário deve montar a estação de monitoramento seguindo o esquemático disponível ([aqui](hardware/img/schematic.png)). Após o hardware montado, o Arduino IDE deve ser configurado seguindo o passo a passo descrito aqui).
+O projeto de hardware requer a utilização dos componentes eletrônicos descritos [anteriormente](#pr%C3%A9-requisitos-1). Em posse deles, o usuário deve montar a estação de monitoramento seguindo o esquemático disponível ([aqui](hardware/img/schematic.png)). Após o hardware montado, o Arduino IDE deve ser configurado seguindo o passo a passo descrito aqui.
 
 
 # Solução de problemas
 
 Caso seja encotrado algum problema na reprodução dos passos anteriores ou na execução do projeto, entre em contato .....
 
-
-<br/>
-
 ### Equipe responsável pelo projeto 
-
+.........
