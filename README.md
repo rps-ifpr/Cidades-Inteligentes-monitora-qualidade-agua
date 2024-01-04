@@ -59,10 +59,10 @@ Neste projeto foi desenvolvido um protótipo de estação de monitoramento de qu
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/cewebbr/mover-se_monitoramento-qualidade-agua
+$ git clone [https://github.com/rps-ifpr/Cidades-Inteligentes-monitora-qualidade-agua]
 
 # Acesse a pasta do projeto no terminal
-$ cd mover-se_monitoramento-qualidade-agua/web
+$ cd Cidades-Inteligentes-monitora-qualidade-agua/web
 
 # Instale as dependências
 $ pip install -r requirements.txt
