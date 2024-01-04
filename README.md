@@ -162,7 +162,7 @@ O projeto de hardware requer a utilização dos componentes eletrônicos descrit
 
 # Solução de problemas
 
-Caso seja encotrado algum problema na reprodução dos passos anteriores ou na execução do projeto, entre em contato com [Rodrigo Lira](https://github.com/rodrigoclira) através do contato disponível na seção "Equipe responsável pelo projeto".
+Caso seja encotrado algum problema na reprodução dos passos anteriores ou na execução do projeto, entre em contato .....
 
 
 <br/>
