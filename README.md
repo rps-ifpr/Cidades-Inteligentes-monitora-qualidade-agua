@@ -59,10 +59,10 @@ Neste projeto foi desenvolvido um protótipo de estação de monitoramento de qu
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/cewebbr/mover-se_monitoramento-qualidade-agua
+$ git clone [https://github.com/rps-ifpr/Cidades-Inteligentes-monitora-qualidade-agua]
 
 # Acesse a pasta do projeto no terminal
-$ cd mover-se_monitoramento-qualidade-agua/web
+$ cd Cidades-Inteligentes-monitora-qualidade-agua/web
 
 # Instale as dependências
 $ pip install -r requirements.txt
@@ -157,15 +157,12 @@ $ ./startcelery.sh
 
 ### Configuração
 
-O projeto de hardware requer a utilização dos componentes eletrônicos descritos [anteriormente](#pr%C3%A9-requisitos-1). Em posse deles, o usuário deve montar a estação de monitoramento seguindo o esquemático disponível ([aqui](hardware/img/schematic.png)). Após o hardware montado, o Arduino IDE deve ser configurado seguindo o passo a passo descrito em [ArduinoIDE.md](hardware/ArduinoIDE.md).
+O projeto de hardware requer a utilização dos componentes eletrônicos descritos [anteriormente](#pr%C3%A9-requisitos-1). Em posse deles, o usuário deve montar a estação de monitoramento seguindo o esquemático disponível ([aqui](hardware/img/schematic.png)). Após o hardware montado, o Arduino IDE deve ser configurado seguindo o passo a passo descrito aqui.
 
 
 # Solução de problemas
 
-Caso seja encotrado algum problema na reprodução dos passos anteriores ou na execução do projeto, entre em contato com [Rodrigo Lira](https://github.com/rodrigoclira) através do contato disponível na seção "Equipe responsável pelo projeto".
-
-
-<br/>
+Caso seja encotrado algum problema na reprodução dos passos anteriores ou na execução do projeto, entre em contato .....
 
 ### Equipe responsável pelo projeto 
-
+.........
