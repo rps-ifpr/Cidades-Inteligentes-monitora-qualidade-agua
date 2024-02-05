@@ -23,7 +23,7 @@ class Station(models.Model):
         max_digits=18, decimal_places=15, default=None)
     deleted = models.BooleanField(default=False)
 
-    def __str__(self): 
+    def __str__(self):
         return f"{self.identification}"
 
 
